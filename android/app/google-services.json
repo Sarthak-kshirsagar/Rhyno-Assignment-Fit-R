@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425933510706",
+    "project_id": "sarthak-my-sub",
+    "storage_bucket": "sarthak-my-sub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425933510706:android:9be4e7aeb041515c03042b",
+        "android_client_info": {
+          "package_name": "com.example.sub1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kIH0-YKkIOMniePbcMZnHG0keBE1LdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
