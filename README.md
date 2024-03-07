@@ -1,4 +1,4 @@
-# sub1
+# FitR
 
 A new Flutter project.
 
